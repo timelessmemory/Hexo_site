@@ -4,7 +4,7 @@
 
 # Site
 title: timelessmemoryli's blog
-subtitle: 欢迎访问<br/>http://blog.csdn.net/u014788227
+subtitle: 欢迎访问
 description: 我是这样的人，<br/>如果你问的问题我不知道答案，<br/>我会直接告诉你“我不知道”。<br/>但我向你保证：<br/>我知道如何寻找答案，<br/>而且我一定会找出答案的。
 author: timelessmemoryli
 language: zh-Hans
@@ -76,5 +76,6 @@ avatar: /uploads/xiaoxin.jpeg
 
 links_title: 友情链接
 links:
-    CSDN: http://blog.csdn.net/u014788227
-    GitHub: https://github.com/timelessmemory
+	ITeyeBlog: http://timelessmemory.iteye.com/
+	OSChina: http://www.oschina.net
+	jianshu: http://www.jianshu.com
