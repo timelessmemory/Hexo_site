@@ -7,7 +7,7 @@ category: 网络爬虫
 
    网易云云音乐评论十分有趣，于是就想写个爬虫爬取评论。但是不熟悉Python，就用java写了个。
    主要使用了HttpClient,，Jsoup， 队列， 线程， log4j，poi生成Excel保存结果， 书写过程中主要一个问题就是评论获取，网易对其进行了加密，进行好一番搜索才找到解决方法。爬取歌单数，top歌曲数都可以动态进行配置.
-
+<!--more-->
 # 目录结构
 ![目录结构](http://img.blog.csdn.net/20161026170154772?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
