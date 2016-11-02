@@ -79,3 +79,8 @@ links:
 	ITeyeBlog: http://timelessmemory.iteye.com/
 	OSChina: http://www.oschina.net
 	jianshu: http://www.jianshu.com
+
+sitemap: 
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
